@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Symbology Encoding website">
+        <meta name="author" content="Erwan Bocher && Gwendall Petit">
+        <link rel="shortcut icon" href="assets/ico/favicon.png">
+
+        <title>Symbology Encoding 2.0 website</title>
+
+        <!-- Bootstrap core CSS -->
+        <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+        <!-- Custom styles for this template -->
+        <link href="assets/css/main.css" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/icomoon.css">
+        <link href="assets/css/animate-custom.css" rel="stylesheet">
+
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+
+        <script src="assets/js/jquery.min.js"></script>
+        <script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
+
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+          <script src="assets/js/html5shiv.js"></script>
+          <script src="assets/js/respond.min.js"></script>
+        <![endif]-->
+    </head>
+
+    <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+
+        <div id="navbar-main">
+            <!-- Fixed navbar -->
+            <div class="navbar navbar-inverse navbar-fixed-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon icon-globe" style="font-size:30px; color:#3498db;"></span>
+                        </button>
+                        <!--<a class="navbar-brand hidden-xs hidden-sm" href="#home"><span style="font-size:18px; color:#3498db;"></span></a>-->
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li><a href="#home" class="smoothScroll">Home</a></li>
+                            <li> <a href="#portfolio" class="smoothScroll"> Wall of maps</a></li>
+		  <li> <a href="#contact" class="smoothScroll"> Contact</a></li>
+                    </div><!--/.nav-collapse -->
+                </div>
+            </div>
+        </div>
+
+
+        <!-- ============================================================================= -->
+        <!-- ==== HEADERWRAP ==== -->
+        <div id="headerwrap" id="home" name="home">
+            <header class="clearfix">
+	   <p style="font-size:30px; color:#333; stroke-style:solid; stroke-color:#FF0000; "><b>Symbology Encoding (SE) 2.0</b></p>
+                <p style="font-size:20px; color:#333;"><i>OGC standard capabilities</i></p>
+            </header>	    
+        </div><!-- /headerwrap -->
+
+
+
+        <!-- ============================================================================= -->
+        <!-- ==== GREYWRAP ==== -->
+        <div id="greywrap">
+            <div class="row">
+                <div class="col-lg-4 callout">
+                    <!-- <span class="icon icon-pencil"></span>-->
+                    <h2>Leaded by research</h2>
+                    <p align="center">Composed of specialists in cartography and computer science, this standard is leaded by two teams of researchers in geo-informatic.</p>
+                </div><!-- col-lg-4 -->	
+                <div class="col-lg-4 callout">
+                    <!-- <span class="icon icon-stack"></span>-->
+                    <h2>OGC Specification</h2>
+                    <p align="center">Symbology Encoding is an OGC <i>(Open Geospatial Consortium)</i> specification (<a href="http://www.opengeospatial.org/standards/se" target="blank">see more</a>).</p>
+                </div><!-- col-lg-4 -->
+
+                <div class="col-lg-4 callout">
+                    <!-- <span class="icon icon-rocket"></span>-->
+                    <h2>Debate on SE</h2>
+                    <p align="center">The debate on SE is leaded by the Styled Layer Descriptor and Symbology Encoding 1.2 Standards Working Group (<a href="http://www.opengeospatial.org/projects/groups/sldse1.2swg" target="blank">sldse1.2swg</a>).</p>
+                </div><!-- col-lg-4 -->	
+            </div><!-- row -->
+        </div><!-- greywrap -->
+
+ 
+
+ 
+        <!-- ============================================================================= -->
+        <!-- ==== PORTFOLIO ==== -->
+
+        <div class="container" id="portfolio" name="portfolio">
+            <br>
+            <div class="row">
+                <br>
+                <h1 class="centered">WALL OF MAPS</h1>
+                <hr>
+                <p align="center">Below some examples showing the capability of SE.</p>
+            </div><!-- /row -->
+
+            <div class="container">
+
+                <!-- Row 1 =========================== -->           
+                <div class="row">	
+
+
+ 		<!-- ================================== -->
+                    <!-- PORTFOLIO IMAGE 1 -->
+                    <div class="col-md-4">
+                        <div class="grid mask">
+                            <figure>
+                                <img class="img-responsive" src="assets/img/portfolio/single_symbol.png" alt="">
+                                <figcaption>
+                                    <h5>Single symbol</h5>
+                                    <a data-toggle="modal" href="#myModal_1" class="btn btn-primary btn-lg">Read More</a>
+                                </figcaption><!-- /figcaption -->
+                            </figure><!-- /figure -->
+                        </div><!-- /grid-mask -->
+                    </div><!-- /col -->
+
+                    <div class="modal fade" id="myModal_1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title">Single symbol</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p><img class="img-responsive" src="assets/img/portfolio/single_symbol_map.png" alt=""></p>
+                                    <p align="justify">Single symbol map is used to apply the same symbol to all geometries in a layer. This map is usefull for drawing a layer with just one category such as county boundaries or buildings as above. Single symbol can be applied for point, line, or polygon layers.
+</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- /.modal -->
+                    <!-- ================================== -->
+                    <!-- PORTFOLIO IMAGE 2 -->
+                    <div class="col-md-4">
+                        <div class="grid mask">
+                            <figure>
+                                <img class="img-responsive" src="assets/img/portfolio/unique_values.png" alt="">
+                                <figcaption>
+                                    <h5>Unique values</h5>
+                                    <a data-toggle="modal" href="#myModal_2" class="btn btn-primary btn-lg">Read More</a>
+                                </figcaption><!-- /figcaption -->
+                            </figure><!-- /figure -->
+                        </div><!-- /grid-mask -->
+                    </div><!-- /col -->
+
+                    <div class="modal fade" id="myModal_2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title">Unique values</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p><img class="img-responsive" src="assets/img/portfolio/unique_values_map.png" alt=""></p>
+                                    <p align="justify">The unique values map is used to apply symbols to represent geometries with different values for an attribute. Unique value thematic map can be applied for point, line, or polygon layers. The above illustration is an example of a unique value thematic map based on highway types.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- /.modal -->                  
+
+
+                    <!-- ================================== -->
+                    <!-- PORTFOLIO IMAGE 3 -->
+                    <div class="col-md-4">
+                        <div class="grid mask">
+                            <figure>
+                                <img class="img-responsive" src="assets/img/portfolio/choropleth.png" alt="">
+                                <figcaption>
+                                    <h5>Choropleth map</h5>
+                                    <a data-toggle="modal" href="#myModal_3" class="btn btn-primary btn-lg">Read More</a>
+                                </figcaption><!-- /figcaption -->
+                            </figure><!-- /figure -->
+                        </div><!-- /grid-mask -->
+                    </div><!-- /col -->
+
+                    <div class="modal fade" id="myModal_3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title">Choropleth map</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p ><img class="img-responsive" src="assets/img/portfolio/choropleth_map.png" alt=""></p>
+<p align="justify">Choropleth map is the most common map representation.Based on of the subdivision of the attribute values into classes or intervals, areal geometries are filled.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- /.modal -->                  
+</div>
+<div class="row">
+
+                    <!-- ================================== -->
+                    <!-- PORTFOLIO IMAGE 4 -->
+                    <div class="col-md-4">
+                        <div class="grid mask">
+                            <figure>
+                                <img class="img-responsive" src="assets/img/portfolio/graduated_symbol.png" alt="">
+                                <figcaption>
+                                    <h5>Graduated symbol</h5>
+                                    <a data-toggle="modal" href="#myModal_4" class="btn btn-primary btn-lg">Read More</a>
+                                </figcaption><!-- /figcaption -->
+                            </figure><!-- /figure -->
+                        </div><!-- /grid-mask -->
+                    </div><!-- /col -->
+                
+                    <div class="modal fade" id="myModal_4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title">Graduated symbol</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p><img class="img-responsive" src="assets/img/portfolio/graduated_symbol_map.png" alt=""></p>
+                                    <p>Under construction.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- /.modal -->
+
+
+
+                    <!-- ================================== -->
+                    <!-- PORTFOLIO IMAGE 5 -->
+                    <div class="col-md-4 ">
+                        <div class="grid mask">
+                            <figure>
+                                <img class="img-responsive" src="assets/img/portfolio/proportional_symbol.png" alt="">
+                                <figcaption>
+                                    <h5>Proportional symbol</h5>
+                                    <a data-toggle="modal" href="#myModal_5" class="btn btn-primary btn-lg">Read More</a>
+                                </figcaption><!-- /figcaption -->
+                            </figure><!-- /figure -->
+                        </div><!-- /grid-mask -->
+                    </div><!-- /col -->
+
+                    <div class="modal fade" id="myModal_5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title">Proportional symbol. - Point</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p><img class="img-responsive" src="assets/img/portfolio/proportional_symbol_map.png" alt=""></p>
+                                    <p align="justify">Under construction.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- /.modal -->
+
+
+                    <!-- ================================== -->
+                    <!-- PORTFOLIO IMAGE 6 -->
+                    <div class="col-md-4">
+                        <div class="grid mask">
+                            <figure>
+                                <img class="img-responsive" src="assets/img/portfolio/proportional_icon_symbol.png" alt="">
+                                <figcaption>
+                                    <h5>Proportional symbol</h5>
+                                    <a data-toggle="modal" href="#myModal_6" class="btn btn-primary btn-lg">Read More</a>
+                                </figcaption><!-- /figcaption -->
+                            </figure><!-- /figure -->
+                        </div><!-- /grid-mask -->
+                    </div><!-- /col -->
+
+                    <div class="modal fade" id="myModal_6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title">Proportional symbol. - Resource</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p><img class="img-responsive" src="assets/img/portfolio/proportional_icon_symbol_map.png" alt=""></p>
+                                    <p align="justify">Under construction.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- /.modal -->
+
+</div>
+<div class="row">
+
+  <!-- ================================== -->
+                    <!-- PORTFOLIO IMAGE 7 -->
+                    <div class="col-md-4 ">
+                        <div class="grid mask">
+                            <figure>
+                                <img class="img-responsive" src="assets/img/portfolio/bivariate_proportional_symbol.png" alt="">
+                                <figcaption>
+                                    <h5>Bi-variate proportional</h5>
+                                    <a data-toggle="modal" href="#myModal_7" class="btn btn-primary btn-lg">Read More</a>
+                                </figcaption><!-- /figcaption -->
+                            </figure><!-- /figure -->
+                        </div><!-- /grid-mask -->
+                    </div><!-- /col -->
+
+                    <div class="modal fade" id="myModal_7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title">Bi-variate proportional symbol</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p><img class="img-responsive" src="assets/img/portfolio/bivariate_proportional_symbol.png" alt=""></p>
+                                    <p align="justify">Under construction.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- /.modal -->
+
+
+
+                    <!-- ================================== -->
+                    <!-- PORTFOLIO IMAGE 8 -->
+                    <div class="col-md-4">
+                        <div class="grid mask">
+                            <figure>
+                                <img class="img-responsive" src="assets/img/portfolio/bivariate_symbol_proportional.png" alt="">
+                                <figcaption>
+                                    <h5>Bi-variate proportional</h5>
+                                    <a data-toggle="modal" href="#myModal_8" class="btn btn-primary btn-lg">Read More</a>
+                                </figcaption><!-- /figcaption -->
+                            </figure><!-- /figure -->
+                        </div><!-- /grid-mask -->
+                    </div><!-- /col -->
+
+                    <div class="modal fade" id="myModal_8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title">Bi-variate proportional - Unified attributes</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p><img class="img-responsive" src="assets/img/portfolio/bivariate_symbol_proportional.png" alt=""></p>
+                                    <p align="justify">Under construction.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- /.modal -->
+
+                   
+
+            </div><!-- /row -->
+        </div><!-- /row -->
+
+         <p align="center">All these examples are produced using the <a href="http://www.orbisgis.org" target="blank">OrbisGIS</a> plateform that implements the SE specification.</p>
+
+    </div><!-- /container -->
+
+
+
+    <!-- ============================================================================= -->
+    <!-- ==== CONTACT US ==== -->
+
+    <div class="container" id="contact" name="contact">
+
+        <section class="section-divider">
+            <div class="row">
+                <h1 class="centered">CONTACT</h1>
+                <hr>
+                <p align="center">For more informations, feel free to join the <a href="mailto:sldse.swg@lists.opengeospatial.org">SLD/SE Standard Working Group mailing list</a> or to contact the two OGC SE co-chairs</p>
+
+                <div class="col-lg-6">
+                    <img class="" src="assets/img/team/labsticc.png" height="100px"  alt="French Lab-STICC laboratory">
+                    <br>
+                    <h3></h3>
+                    <p>
+                        <span class="icon icon-envelop"></span> <a href="mailto:erwan.bocher@univ-ubs.fr"> Erwan Bocher</a><br/>
+                        <span class="icon icon-home"></span><a href="http://www.openstreetmap.org/way/146255079#map=15/47.6419/-2.7757" target="blank"> Vannes</a>, France<br/>
+                        <span class="icon icon-website"></span> <a href="http://www.labsticc.fr/" target="blank"> www.labsticc.fr</a> <br/>
+                    </p>
+                </div><!-- col-lg-3 -->
+
+                <div class="col-lg-6">
+                    <img class="" src="assets/img/team/heig-vd.jpg" height="100px" alt="heig-vd">
+                    <br>
+                    <h3></h3>
+                    <p>
+                        <span class="icon icon-envelop"></span> <a href="mailto:olivier.ertz@heig-vd.ch"> Olivier Ertz</a> <br/>
+                        <span class="icon icon-home"></span><a href="http://www.openstreetmap.org/node/856321151#map=15/46.7803/6.6605" target="blank"> Yverdon-les-Bains</a>, Switzerland<br/>
+                        <span class="icon icon-website"></span> <a href="http://heig-vd.ch/" target="blank"> www.heig-vd.ch </a> <br/>
+                    </p>
+                </div><!-- col-lg-3 -->
+
+            </div><!-- row -->
+        </section><!-- section -->
+    </div><!-- container -->
+
+
+
+    <!-- ============================================================================= -->
+    <!-- ==== FOOTER - CREDITS ==== -->
+
+    <div id="footerwrap">
+        <div class="container">
+            <h4>Created by <a href="http://www.labsticc.fr/" target="blank">Lab-STICC</a> - <a data-toggle="modal" href="#credits">Credits</a></h4>
+        </div>
+
+        <div class="modal fade" id="credits" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title">CREDITS</h4>
+                    </div>
+                    <div class="modal-body">
+
+                        <h3>Website theme</h3>
+
+                        <p>
+                            Theme Boostrap 3 based on <a href="http://www.blacktie.co/demo/shield/">Shield</a>, created by <a href="http://www.blacktie.co/">BlackTie.co</a>
+                        </p>
+
+                        <h3>Other credits</h3>
+
+                        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />All other documents and ressources are produced by Lab-STICC & HEIG-VD and are credited under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/js/retina.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="assets/js/smoothscroll.js"></script>
+    <script type="text/javascript" src="assets/js/jquery-func.js"></script>
+</body>
+</html>
