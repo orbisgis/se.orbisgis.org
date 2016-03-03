@@ -58,8 +58,10 @@
         <!-- ==== HEADERWRAP ==== -->
         <div id="headerwrap" id="home" name="home">
             <header class="clearfix">
-	   <p style="font-size:30px; color:#333; stroke-style:solid; stroke-color:#FF0000; "><b>Symbology Encoding (SE) 2.0</b></p>
-                <p style="font-size:20px; color:#333;"><i>OGC standard capabilities</i></p>
+	   <p style="font-size:30px; color:#333; stroke-style:solid; stroke-color:#FF0000; "><b>Towards full cartographic portrayal interoperability</b></p>
+ <p style="font-size:30px; color:#333; stroke-style:solid; stroke-color:#FF0000; "><b>The revision of OGC Symbology Encoding standard</b></p>
+<p style="font-size:25px; color:#333;"><i>Let your imagination run wild! </i></p>
+
             </header>	    
         </div><!-- /headerwrap -->
 
@@ -231,7 +233,8 @@
                                 </div>
                                 <div class="modal-body">
                                     <p><img class="img-responsive" src="assets/img/portfolio/graduated_symbol_map.png" alt=""></p>
-                                    <p>Under construction.</p>
+                                    <p>Graduated symbol map uses symbols of different sizes to  represent differences in the magnitude of a discrete, abruptly changing phenomenon.  It's the way to visualize absolute numbers like population size, traffic volume... The sizes of the symbols corresponds to a set of classes.
+The following is an example of a Graduated Symbol map of 4 classes representing the number of building permits in Europe in 2014.</p>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -265,7 +268,9 @@
                                 </div>
                                 <div class="modal-body">
                                     <p><img class="img-responsive" src="assets/img/portfolio/proportional_symbol_map.png" alt=""></p>
-                                    <p align="justify">Under construction.</p>
+                                    <p align="justify">Proportional symbol maps uses symbols of different sizes to represent the numerical values of an attribute. 
+For a Graduated symbol map, the classed ones are known.  This is similar to the choropleth map where values are broken into ranges .
+While a Proportional symbol map, the area of the symbols is made proportional with the value to be displayed (scaled proportionately).</p>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -298,7 +303,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <p><img class="img-responsive" src="assets/img/portfolio/proportional_icon_symbol_map.png" alt=""></p>
-                                    <p align="justify">Under construction.</p>
+                                    <p align="justify">To improve perceptual scaling and facilitate understanding of the map, Cartographer uses custom shape for a symbol (truetype, image). The following is an example of  a Proportional symbol map where the symbol is represented by a building.</p>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -310,14 +315,14 @@
 </div>
 <div class="row">
 
-  <!-- ================================== -->
+<!-- ================================== -->
                     <!-- PORTFOLIO IMAGE 7 -->
-                    <div class="col-md-4 ">
+                    <div class="col-md-4">
                         <div class="grid mask">
                             <figure>
-                                <img class="img-responsive" src="assets/img/portfolio/bivariate_proportional_symbol.png" alt="">
+                                <img class="img-responsive" src="assets/img/portfolio/proportional_text_symbol.png" alt="">
                                 <figcaption>
-                                    <h5>Bi-variate proportional</h5>
+                                    <h5>Proportional label</h5>
                                     <a data-toggle="modal" href="#myModal_7" class="btn btn-primary btn-lg">Read More</a>
                                 </figcaption><!-- /figcaption -->
                             </figure><!-- /figure -->
@@ -325,6 +330,107 @@
                     </div><!-- /col -->
 
                     <div class="modal fade" id="myModal_7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title">Proportional label</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p><img class="img-responsive" src="assets/img/portfolio/proportional_text_symbol_map.png" alt=""></p>
+                                    <p align="justify">Proportional label map uses the same technique than proportional symbols, expected that the size of the font is scaled proportionately.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- /.modal -->
+
+  <!-- ================================== -->
+                     <!-- PORTFOLIO IMAGE 7 -->
+                    <div class="col-md-4">
+                        <div class="grid mask">
+                            <figure>
+                                <img class="img-responsive" src="assets/img/portfolio/interpolate_color_range_area.png" alt="">
+                                <figcaption>
+                                    <h5>Interpolate color</h5>
+                                    <a data-toggle="modal" href="#myModal_8" class="btn btn-primary btn-lg">Read More</a>
+                                </figcaption><!-- /figcaption -->
+                            </figure><!-- /figure -->
+                        </div><!-- /grid-mask -->
+                    </div><!-- /col -->
+
+                    <div class="modal fade" id="myModal_8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title">Interpolate color range</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p><img class="img-responsive" src="assets/img/portfolio/interpolate_color_range_area_map.png" alt=""></p>
+                                    <p align="justify">Interpolate color range is commonly used to display a raster with  a continuous range of colors. However, as the following map shows it's  easily to map continuous feature values using interpolate function. Note : As Color is specified with the 3 elements Red, Green and Blue, 3  interpolations must be apply.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- /.modal --> 
+
+
+
+ 		<!-- ================================== -->
+                    <!-- PORTFOLIO IMAGE 9 -->
+                    <div class="col-md-4">
+                        <div class="grid mask">
+                            <figure>
+                                <img class="img-responsive" src="assets/img/portfolio/bivariate_proportional_line_unique_values.png" alt="">
+                                <figcaption>
+                                    <h5>Bi-variate proportional</h5>
+                                    <a data-toggle="modal" href="#myModal_9" class="btn btn-primary btn-lg">Read More</a>
+                                </figcaption><!-- /figcaption -->
+                            </figure><!-- /figure -->
+                        </div><!-- /grid-mask -->
+                    </div><!-- /col -->
+
+                    <div class="modal fade" id="myModal_9" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title">Bi-variate proportional line with unique values</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p><img class="img-responsive" src="assets/img/portfolio/bivariate_proportional_line_unique_values_map.png" alt=""></p>
+                                    <p align="justify">Under construction.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- /.modal --> 
+	</div><!-- /row --> 
+       
+                <div class="row">
+<!-- ================================== -->
+
+<!-- PORTFOLIO IMAGE 10 -->
+                    <div class="col-md-4 ">
+                        <div class="grid mask">
+                            <figure>
+                                <img class="img-responsive" src="assets/img/portfolio/bivariate_proportional_symbol.png" alt="">
+                                <figcaption>
+                                    <h5>Bi-variate proportional</h5>
+                                    <a data-toggle="modal" href="#myModal_10" class="btn btn-primary btn-lg">Read More</a>
+                                </figcaption><!-- /figcaption -->
+                            </figure><!-- /figure -->
+                        </div><!-- /grid-mask -->
+                    </div><!-- /col -->
+
+                    <div class="modal fade" id="myModal_10" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
@@ -342,23 +448,21 @@
                         </div><!-- /.modal-dialog -->
                     </div><!-- /.modal -->
 
-
-
                     <!-- ================================== -->
-                    <!-- PORTFOLIO IMAGE 8 -->
+                    <!-- PORTFOLIO IMAGE 11 -->
                     <div class="col-md-4">
                         <div class="grid mask">
                             <figure>
                                 <img class="img-responsive" src="assets/img/portfolio/bivariate_symbol_proportional.png" alt="">
                                 <figcaption>
                                     <h5>Bi-variate proportional</h5>
-                                    <a data-toggle="modal" href="#myModal_8" class="btn btn-primary btn-lg">Read More</a>
+                                    <a data-toggle="modal" href="#myModal_11" class="btn btn-primary btn-lg">Read More</a>
                                 </figcaption><!-- /figcaption -->
                             </figure><!-- /figure -->
                         </div><!-- /grid-mask -->
                     </div><!-- /col -->
 
-                    <div class="modal fade" id="myModal_8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal fade" id="myModal_11" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
@@ -374,43 +478,8 @@
                                 </div>
                             </div><!-- /.modal-content -->
                         </div><!-- /.modal-dialog -->
-                    </div><!-- /.modal -->
-
- 		<!-- ================================== -->
-                    <!-- PORTFOLIO IMAGE 9 -->
-                    <div class="col-md-4">
-                        <div class="grid mask">
-                            <figure>
-                                <img class="img-responsive" src="assets/img/portfolio/interpolate_color_range_area.png" alt="">
-                                <figcaption>
-                                    <h5>Interpolate color</h5>
-                                    <a data-toggle="modal" href="#myModal_9" class="btn btn-primary btn-lg">Read More</a>
-                                </figcaption><!-- /figcaption -->
-                            </figure><!-- /figure -->
-                        </div><!-- /grid-mask -->
-                    </div><!-- /col -->
-
-                    <div class="modal fade" id="myModal_9" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                        <div class="modal-dialog">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                                    <h4 class="modal-title">Interpolate color range</h4>
-                                </div>
-                                <div class="modal-body">
-                                    <p><img class="img-responsive" src="assets/img/portfolio/interpolate_color_range_area_map.png" alt=""></p>
-                                    <p align="justify">Under construction.</p>
-                                </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                                </div>
-                            </div><!-- /.modal-content -->
-                        </div><!-- /.modal-dialog -->
-                    </div><!-- /.modal -->
-
-                   
-
-            </div><!-- /row -->
+                    </div><!-- /.modal -->                   
+		</div><!-- /row -->
         </div><!-- /row -->
 
          <p align="center">All these examples are produced using the <a href="http://www.orbisgis.org" target="blank">OrbisGIS</a> plateform that implements the SE specification.</p>
@@ -474,6 +543,14 @@
                         <h4 class="modal-title">CREDITS</h4>
                     </div>
                     <div class="modal-body">
+
+			<h3>Authors</h3>
+                        <img class="img img-square" src="assets/img/team/logo_cnrs.png" width="70px" height="70px">
+                        <p>
+                        Website created by Gwendall Petit and Erwan Bocher
+                        <br>
+                        Lab-STICC Laboratory (CNRS, UMR 6825) - France
+                        </p>
 
                         <h3>Website theme</h3>
 

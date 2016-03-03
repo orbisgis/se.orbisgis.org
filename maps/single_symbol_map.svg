@@ -148,11 +148,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="442.32207"
-     inkscape:cy="405.80443"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="267.73487"
+     inkscape:cy="435.40859"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1600"
      inkscape:window-height="815"
@@ -180,166 +180,15 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Main"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-308.2677)"
-     style="display:inline">
-    <rect
-       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:2.99375892;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2985-3-0-7"
-       width="296.76511"
-       height="679.62219"
-       x="841.04602"
-       y="312.83685"
-       inkscape:export-filename="/home/ebocher/ownCloud/web/se.orbisgis.org_2/assets/img/portfolio/unique_values_map.png"
-       inkscape:export-xdpi="150.03845"
-       inkscape:export-ydpi="150.03845" />
-    <rect
-       style="opacity:0.56028365;color:#000000;fill:#999999;stroke:none;stroke-width:3.1020453;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2985-3-0"
-       width="296.06219"
-       height="63.205078"
-       x="839.82605"
-       y="311.61682"
-       inkscape:export-filename="/home/ebocher/ownCloud/web/se.orbisgis.org_2/assets/img/portfolio/unique_values_map.png"
-       inkscape:export-xdpi="150.03845"
-       inkscape:export-ydpi="150.03845" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
-       x="852"
-       y="354.36218"
-       id="text3811-8"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="150.03845"
-       inkscape:export-ydpi="150.03845"
-       inkscape:export-filename="/home/ebocher/ownCloud/web/se.orbisgis.org_2/assets/img/portfolio/unique_values_map.png"><tspan
-         sodipodi:role="line"
-         id="tspan3813-4"
-         x="852"
-         y="354.36218">PSEUDO-SE</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
-       x="860"
-       y="412.36218"
-       id="text3811-8-2"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="150.03845"
-       inkscape:export-ydpi="150.03845"
-       inkscape:export-filename="/home/ebocher/ownCloud/web/se.orbisgis.org_2/assets/img/portfolio/unique_values_map.png"><tspan
-         sodipodi:role="line"
-         id="tspan3813-4-9"
-         x="860"
-         y="412.36218">Rule A</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
-       x="900"
-       y="444.36218"
-       id="text3811-8-2-34"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="150.03845"
-       inkscape:export-ydpi="150.03845"
-       inkscape:export-filename="/home/ebocher/ownCloud/web/se.orbisgis.org_2/assets/img/portfolio/unique_values_map.png"><tspan
-         sodipodi:role="line"
-         id="tspan3813-4-9-2"
-         x="900"
-         y="444.36218">PolygonSymbolizer</tspan></text>
-    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2985"
-       width="802.66193"
-       height="678.37616"
-       x="19.526188"
-       y="313.60269"
-       inkscape:export-filename="/home/ebocher/ownCloud/web/se.orbisgis.org_2/assets/img/portfolio/unique_values_map.png"
-       inkscape:export-xdpi="150.03845"
-       inkscape:export-ydpi="150.03845" />
-    <rect
-       style="opacity:0.56028365;color:#000000;fill:#980c0c;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2985-3"
-       width="802.03412"
-       height="62.034145"
-       x="20.411486"
-       y="313.05942"
-       inkscape:export-filename="/home/ebocher/ownCloud/web/se.orbisgis.org_2/assets/img/portfolio/unique_values_map.png"
-       inkscape:export-xdpi="150.03845"
-       inkscape:export-ydpi="150.03845" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
-       x="368"
-       y="354.36218"
-       id="text3811-8-1"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/ebocher/ownCloud/web/se.orbisgis.org_2/assets/img/portfolio/unique_values_map.png"
-       inkscape:export-xdpi="150.03845"
-       inkscape:export-ydpi="150.03845"><tspan
-         sodipodi:role="line"
-         id="tspan3813-4-3"
-         x="368"
-         y="354.36218">MAP</tspan></text>
-    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.44290614;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2985-7"
-       width="265.19522"
-       height="120.10294"
-       x="18.917305"
-       y="872.77631"
-       inkscape:export-filename="/home/ebocher/ownCloud/web/se.orbisgis.org_2/assets/img/portfolio/unique_values.png"
-       inkscape:export-xdpi="150.03845"
-       inkscape:export-ydpi="150.03845" />
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Symbol;-inkscape-font-specification:Symbol"
-       x="30"
-       y="892.36218"
-       id="text19773"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/ebocher/ownCloud/web/se.orbisgis.org_2/assets/img/portfolio/unique_values.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"><tspan
-         sodipodi:role="line"
-         id="tspan19775"
-         x="30"
-         y="892.36218">Legend</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Symbol;-inkscape-font-specification:Symbol"
-       x="70"
-       y="926.36218"
-       id="text19829"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/ebocher/ownCloud/web/se.orbisgis.org_2/assets/img/portfolio/unique_values_map.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"><tspan
-         sodipodi:role="line"
-         id="tspan19831"
-         x="70"
-         y="926.36218">Building</tspan></text>
-    <path
-       d="m 37.531639,928.65494 2.8375,-14.07501 12.0375,3.21251 1.6625,-4.325 5.425,2.9625 -2.0375,4.44999 -5.1125,13.08751 -14.8125,-5.3125 z"
-       style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path2878-5"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 37.531639,928.65494 2.8375,-14.07501 12.0375,3.21251 1.6625,-4.325 5.425,2.9625 -2.0375,4.44999 -5.1125,13.08751 -14.8125,-5.3125 z"
-       style="fill:none;stroke:#000000;stroke-width:1.1875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-       id="path2880-0"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Map">
     <g
        id="g84"
        transform="matrix(0.95714286,0,0,-0.95121382,35.428567,655.23734)"
-       inkscape:export-filename="/home/ebocher/ownCloud/web/se.orbisgis.org_2/assets/img/portfolio/single_symbol.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152">
       <g
          id="g86"
          clip-path="url(#clipPath88-4)">
@@ -12172,6 +12021,331 @@
         </g>
       </g>
     </g>
+  </g>
+  <g
+     inkscape:label="Main"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)"
+     style="display:inline">
+    <rect
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:2.99375892;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985-3-0-7"
+       width="296.76511"
+       height="679.62219"
+       x="841.04602"
+       y="312.83685"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152" />
+    <rect
+       style="opacity:0.56028365;color:#000000;fill:#999999;stroke:none;stroke-width:3.1020453;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985-3-0"
+       width="296.06219"
+       height="63.205078"
+       x="839.82605"
+       y="311.61682"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="866"
+       y="354.36218"
+       id="text3811-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4"
+         x="866"
+         y="354.36218">PSEUDO-SE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="860"
+       y="412.36218"
+       id="text3811-8-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9"
+         x="860"
+         y="412.36218">Rule A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="900"
+       y="444.36218"
+       id="text3811-8-2-34"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2"
+         x="900"
+         y="444.36218">AreaSymbolizer</tspan></text>
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985"
+       width="802.66193"
+       height="678.37616"
+       x="19.526188"
+       y="313.60269"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.44290614;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985-7"
+       width="265.19522"
+       height="120.10294"
+       x="18.917305"
+       y="872.77631"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152" />
+    <rect
+       style="opacity:0.56028365;color:#000000;fill:#980c0c;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985-3"
+       width="802.03412"
+       height="62.034145"
+       x="20.411486"
+       y="313.05942"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="368"
+       y="354.36218"
+       id="text3811-8-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-3"
+         x="368"
+         y="354.36218">MAP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Symbol;-inkscape-font-specification:Symbol"
+       x="30"
+       y="892.36218"
+       id="text19773"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"><tspan
+         sodipodi:role="line"
+         id="tspan19775"
+         x="30"
+         y="892.36218">Legend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Symbol;-inkscape-font-specification:Symbol"
+       x="70"
+       y="926.36218"
+       id="text19829"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"><tspan
+         sodipodi:role="line"
+         id="tspan19831"
+         x="70"
+         y="926.36218">Building</tspan></text>
+    <path
+       d="m 37.531639,928.65494 2.8375,-14.07501 12.0375,3.21251 1.6625,-4.325 5.425,2.9625 -2.0375,4.44999 -5.1125,13.08751 -14.8125,-5.3125 z"
+       style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path2878-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152" />
+    <path
+       d="m 37.531639,928.65494 2.8375,-14.07501 12.0375,3.21251 1.6625,-4.325 5.425,2.9625 -2.0375,4.44999 -5.1125,13.08751 -14.8125,-5.3125 z"
+       style="fill:none;stroke:#000000;stroke-width:1.1875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path2880-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="928"
+       y="474.36218"
+       id="text3811-8-2-34-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2-8"
+         x="928"
+         y="474.36218">SolidFill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="950"
+       y="502.36218"
+       id="text3811-8-2-34-1-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2-8-8"
+         x="950"
+         y="502.36218">RGBColor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="968"
+       y="526.36218"
+       id="text3811-8-2-34-1-5-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2-8-8-3"
+         x="968"
+         y="526.36218">R (0 to 255)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="968"
+       y="552.36218"
+       id="text3811-8-2-34-1-5-8-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2-8-8-3-1"
+         x="968"
+         y="552.36218">G (0 to 255)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="968"
+       y="578.36218"
+       id="text3811-8-2-34-1-5-8-3-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2-8-8-3-1-6"
+         x="968"
+         y="578.36218">B (0 to 255)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="928"
+       y="614.36218"
+       id="text3811-8-2-34-1-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2-8-5"
+         x="928"
+         y="614.36218">PenStroke</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="960"
+       y="644.36218"
+       id="text3811-8-2-34-1-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2-8-85"
+         x="960"
+         y="644.36218">SolidFill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="982"
+       y="668.36218"
+       id="text3811-8-2-34-1-5-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2-8-8-8"
+         x="982"
+         y="668.36218">RGBColor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="1000"
+       y="692.36218"
+       id="text3811-8-2-34-1-5-8-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2-8-8-3-8"
+         x="1000"
+         y="692.36218">R (0 to 255)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="1000"
+       y="718.36218"
+       id="text3811-8-2-34-1-5-8-3-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2-8-8-3-1-61"
+         x="1000"
+         y="718.36218">G (0 to 255)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="1000"
+       y="744.36218"
+       id="text3811-8-2-34-1-5-8-3-6-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2-8-8-3-1-6-1"
+         x="1000"
+         y="744.36218">B (0 to 255)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="960"
+       y="782.36218"
+       id="text3811-8-2-34-1-4-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="120.35152"
+       inkscape:export-ydpi="120.35152"
+       inkscape:export-filename="/home/ebocher/Autres/codes/se.orbisgis.org/assets/img/portfolio/single_symbol_map.png"><tspan
+         sodipodi:role="line"
+         id="tspan3813-4-9-2-8-85-3"
+         x="960"
+         y="782.36218">Width</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
